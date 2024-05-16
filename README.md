@@ -27,3 +27,8 @@ entities -->
  --orders
  --review
 
+
+ # redux for add to cart 
+ cannot persist aceoss refresh or path change ( but param change can be applied)
+
+
